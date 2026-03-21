@@ -103,7 +103,7 @@
     min-height: 480px;
     padding: 80px 70px;
     /* Using a relevant placeholder image until you link your own */
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/servicesimages1.png");
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../images/servicesimages1.webp");
     background-size: cover;
     background-position: center 30%;
     display: flex;
